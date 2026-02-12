@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">With a rich and diverse career in creative disciplines, project management, and client relations, I have chosen to transition into web development. I am open to new professional opportunities—whether an apprenticeship to further specialize or a first permanent position—in order to put my skills to work on ambitious projects.<br><br>🌍 I'm based in Toulouse, France<br>✨ Dealing with bugs since 2021<br>📚 I'm currently learning Python</p>
+<p align="center">With a rich and diverse career in creative disciplines, project management, and client relations, I have chosen to transition into web development. I am open to new professional opportunities—whether an apprenticeship to further specialize or a first permanent position—in order to put my skills to work on ambitious projects.<br><br>🌍 I'm based in Toulouse, France<br>✨ Dealing with bugs since 2021<br>📚 I'm currently learning AI Agents Automation</p>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="center">Stats</h2>
+<!-- <h2 align="center">Stats</h2>
 
 ###
 
@@ -55,7 +55,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=pablonudel&theme=discord&column=4&row=1&margin-w=6&margin-h=8&no-bg=false&no-frame=true&order=4" alt="trophy graph"  />
 </div>
 
-###
+### -->
 
 <h2 align="center">Let's connect!</h2>
 
