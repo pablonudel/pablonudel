@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">After a career rich in experiences in various creative disciplines, as well as project and client management, I decided to retrain in web development. Currently, I am following an intensive training course at Holberton School, where I am developing my technical skills and deepening my knowledge in this exciting field.<br><br>🌍 I'm based in Toulouse, France<br>✨ Dealing with bugs since 2021<br>📚 I'm currently learning Python</p>
+<p align="center">With a rich and diverse career in creative disciplines, project management, and client relations, I have chosen to transition into web development. I am open to new professional opportunities—whether an apprenticeship to further specialize or a first permanent position—in order to put my skills to work on ambitious projects.<br><br>🌍 I'm based in Toulouse, France<br>✨ Dealing with bugs since 2021<br>📚 I'm currently learning Python</p>
 
 ###
 
